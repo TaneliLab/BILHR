@@ -6,5 +6,4 @@ code from bio-inspired learning for humanoid robot
 [![Watch the video](https://img.youtube.com/vi/ahFz97uuS7s/hqdefault.jpg)](https://www.youtube.com/watch?v=ahFz97uuS7s)
 
 # CMAC
-https://www.youtube.com/shorts/AfeHUd8koWA
 [![Watch the video](https://img.youtube.com/vi/AfeHUd8koWA/hqdefault.jpg)](https://www.youtube.com/shorts/AfeHUd8koWA)
